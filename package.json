@@ -1,0 +1,20 @@
+{
+  "name": "genesis-express-waterline",
+  "version": "0.0.1",
+  "description": "connecting express to waterline module specific to the genesis framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "genesis",
+    "waterline",
+    "exress"
+  ],
+  "author": "BransonGitomeh",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "waterline": "^0.11.0"
+  }
+}
